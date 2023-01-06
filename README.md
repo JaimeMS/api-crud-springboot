@@ -1,4 +1,5 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/JaimeDevS/api-crud-springboot)
+![GitHub repo size](https://img.shields.io/github/repo-size/JaimeDevS/api-crud-springboot?style=plastic)
+![GitHub](https://img.shields.io/github/license/JaimeDevS/api-crud-springboot?style=plastic)
 
 # CRUD com Java Spring Boot
 
