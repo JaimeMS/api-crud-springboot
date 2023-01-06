@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/JaimeDevS/api-crud-springboot)
+
 # CRUD com Java Spring Boot
 
 Exemplo de API para operação de CRUD com Java Spring Boot
